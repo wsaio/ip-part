@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "ip-part ip util"
 authors = ["dehua <hidehua@outlook.com>"]
 edition = "2018"
-license = "?"
+license = "MIT/Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
