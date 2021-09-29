@@ -1,6 +1,7 @@
 [package]
 name = "ip-part"
 version = "0.1.0"
+description = "ip-part ip util"
 authors = ["dehua <hidehua@outlook.com>"]
 edition = "2018"
 license = "?"
