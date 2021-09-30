@@ -1,6 +1,6 @@
 [package]
 name = "ip-part"
-version = "0.1.0"
+version = "0.1.1"
 description = "ip-part - ip tool"
 authors = ["dehua <hidehua@outlook.com>"]
 edition = "2018"
