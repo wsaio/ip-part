@@ -1,7 +1,7 @@
 [package]
 name = "ip-part"
 version = "0.1.0"
-description = "ip-part ip util"
+description = "ip-part - ip tool"
 authors = ["dehua <hidehua@outlook.com>"]
 edition = "2018"
 license = "MIT/Apache-2.0"
